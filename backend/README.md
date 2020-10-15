@@ -1,6 +1,6 @@
 ### cnx1-challenge
 
-Please find above the details fot the backend.
+Backend details.
 
 ### `node server`
 
