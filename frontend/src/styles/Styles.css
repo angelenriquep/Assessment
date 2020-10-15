@@ -1,0 +1,42 @@
+
+.container {
+    max-width: 1000px;
+    display: flex;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    column-gap: 2rem;
+}
+
+.left {
+    font-size: 1.5rem;
+    width: 50%;
+}
+
+.right {
+    font-size: 1rem;
+    width: 50%;
+}
+
+.timmer {
+    background-color: silver;
+    color: blue;
+    text-align: center;
+    border-radius: 4px;
+    padding: .5em;
+}
+
+.loader {
+    background-color: silver;
+    color: blue;
+    text-align: center;
+    margin: auto;
+    padding: .5em;
+}
+
+.error {
+    background-color: rgb(247, 116, 116);
+    color: red;
+    text-align: center;
+    margin: auto;
+    padding: .5em;
+}
